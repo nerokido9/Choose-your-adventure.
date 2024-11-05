@@ -1,0 +1,17 @@
+h1 { 
+	color: blue;
+	text-align: center;
+  text-transform: uppercase;
+}
+p {
+	font-family:cursive;
+	text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+body { 
+	background-color:aliceblue; 
+}
+h2 {
+	color: cadetblue;
+}

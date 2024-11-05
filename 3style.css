@@ -1,0 +1,14 @@
+body {
+	background-color: darkgrey;
+font-family: cursive;
+}
+h1{
+	color: ghostwhite;
+	text-align: center;
+  text-transform: uppercase;
+}
+p{
+	text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
